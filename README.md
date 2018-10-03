@@ -1,2 +1,3 @@
 # hashes-chat
-A chat application built and maintaned by members of the hashes community
+A chat application built and maintaned by members of the hashes community.
+#hacktoberfest #thakuradityaanand :)
